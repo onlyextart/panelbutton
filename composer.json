@@ -1,5 +1,20 @@
 {
   "name": "onlyextart/panelbutton",
+  "version": "1.x-dev",
   "description": "Drupal 8. Plugin in the root libraries folder (/libraries).",
-  "type": "drupal-library"
+  "type": "drupal-library",
+  "main": "panelbutton/plugin.js",
+  "keywords": [
+    "panelbutton",
+    "CKEditor panelbutton",
+    "CKEditor"
+  ],
+  "author": "Yury Vasdiliyan <yuraextart@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onlyextart/panelbutton.git"
+  },
+
+  "license": "MIT",
+  "homepage": "https://github.com/onlyextart/panelbutton"
 }
